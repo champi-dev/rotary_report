@@ -1,0 +1,16 @@
+{
+  "name": "rotary-annual-report",
+  "version": "1.0.0",
+  "description": "Informe Anual 2024-2025 - Club Rotario Barranquilla Centro",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build required for static site'"
+  },
+  "keywords": ["rotary", "annual-report", "barranquilla", "club"],
+  "author": "Club Rotario Barranquilla Centro",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
